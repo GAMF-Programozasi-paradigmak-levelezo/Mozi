@@ -1,5 +1,5 @@
 ﻿/*
- Készítsen egy C# konzol alkalmazást .NET 8.0 keretrendszerre, amely egy moziterem heti vetítési rendjét modellezi. Készítsen egy öt elemű tömböt Filmcímek névvel, ami az adott héten vetített filmek címeit tartalmazza.  
+Készítsen egy C# konzol alkalmazást .NET 8.0 keretrendszerre, amely egy moziterem heti vetítési rendjét modellezi. Készítsen egy öt elemű tömböt Filmcímek névvel, ami az adott héten vetített filmek címeit tartalmazza.  
 
 Készítsen egy kétdimenziós tömböt VetítésiRend névvel az egyes napokon vetített filmek sorszámainak tárolására (a tömb sorai a napokat azonosítják be, míg az oszlopai a vetítési sávokat) feltételezve, hogy filmvetítés csak páros órában kezdődik, az első filmet 10:00-tól vetítik, az utolsót 20:00-tól). Nincs minden nap minden sávban vetítés. A tömböt töltse fel véletlenszerűen kiválasztott film sorszámokkal illetve -1 értékekkel ott, ahol nincs vetítés.
 
